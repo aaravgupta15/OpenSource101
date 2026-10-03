@@ -74,7 +74,7 @@ Add a short message describing what you changed.
 
 For example:
 
-`Add Mithul to contributors`
+`Add Aarav to contributors`
 
 Then click:
 
